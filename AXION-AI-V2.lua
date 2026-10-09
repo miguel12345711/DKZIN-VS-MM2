@@ -30,7 +30,7 @@ Máximo 3 frases por resposta.]]
 -- ==================================================
 
 local function PerguntarIA(pergunta)
-    if GROQ_API_KEY == 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 then
+    if GROQ_API_KEY == "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" then
         return "ERRO: Você não colou a API key no script!"
     end
 
